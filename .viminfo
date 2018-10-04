@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :x
-|2,0,1538614761,,"x"
+|2,0,1538615231,,"x"
 :q
 |2,0,1536792917,,"q"
 :wq
@@ -35,26 +35,44 @@
 |3,1,36,0,1,0,1536792862,";"
 
 # File marks:
-'0  1  5  ~/file2.txt
-|4,48,1,5,1538614761,"~/file2.txt"
-'1  1  5  ~/file1.txt
-|4,49,1,5,1538614689,"~/file1.txt"
-'2  1  0  ~/private/cs400/output.txt
-|4,50,1,0,1536792917,"~/private/cs400/output.txt"
-'3  2  0  ~/private/cs400/output
-|4,51,2,0,1536792896,"~/private/cs400/output"
-'4  5  0  ~/private/cs400/hello.java
-|4,52,5,0,1536792525,"~/private/cs400/hello.java"
-'5  5  0  ~/private/hello
-|4,53,5,0,1536792209,"~/private/hello"
+'0  1  5  ~/file3.txt
+|4,48,1,5,1538615231,"~/file3.txt"
+'1  1  5  ~/file2.txt
+|4,49,1,5,1538614761,"~/file2.txt"
+'2  1  5  ~/file1.txt
+|4,50,1,5,1538614689,"~/file1.txt"
+'3  1  0  ~/private/cs400/output.txt
+|4,51,1,0,1536792917,"~/private/cs400/output.txt"
+'4  2  0  ~/private/cs400/output
+|4,52,2,0,1536792896,"~/private/cs400/output"
+'5  5  0  ~/private/cs400/hello.java
+|4,53,5,0,1536792525,"~/private/cs400/hello.java"
+'6  5  0  ~/private/hello
+|4,54,5,0,1536792209,"~/private/hello"
 
 # Jumplist (newest first):
+-'  1  5  ~/file3.txt
+|4,39,1,5,1538615231,"~/file3.txt"
+-'  1  5  ~/file2.txt
+|4,39,1,5,1538614761,"~/file2.txt"
 -'  1  5  ~/file2.txt
 |4,39,1,5,1538614761,"~/file2.txt"
 -'  1  5  ~/file1.txt
 |4,39,1,5,1538614689,"~/file1.txt"
 -'  1  5  ~/file1.txt
 |4,39,1,5,1538614689,"~/file1.txt"
+-'  1  5  ~/file1.txt
+|4,39,1,5,1538614689,"~/file1.txt"
+-'  1  5  ~/file1.txt
+|4,39,1,5,1538614689,"~/file1.txt"
+-'  1  0  ~/private/cs400/output.txt
+|4,39,1,0,1536792917,"~/private/cs400/output.txt"
+-'  1  0  ~/private/cs400/output.txt
+|4,39,1,0,1536792917,"~/private/cs400/output.txt"
+-'  1  0  ~/private/cs400/output.txt
+|4,39,1,0,1536792917,"~/private/cs400/output.txt"
+-'  1  0  ~/private/cs400/output.txt
+|4,39,1,0,1536792917,"~/private/cs400/output.txt"
 -'  1  0  ~/private/cs400/output.txt
 |4,39,1,0,1536792917,"~/private/cs400/output.txt"
 -'  1  0  ~/private/cs400/output.txt
@@ -79,6 +97,38 @@
 |4,39,2,0,1536792896,"~/private/cs400/output"
 -'  2  0  ~/private/cs400/output
 |4,39,2,0,1536792896,"~/private/cs400/output"
+-'  2  0  ~/private/cs400/output
+|4,39,2,0,1536792896,"~/private/cs400/output"
+-'  2  0  ~/private/cs400/output
+|4,39,2,0,1536792896,"~/private/cs400/output"
+-'  2  0  ~/private/cs400/output
+|4,39,2,0,1536792896,"~/private/cs400/output"
+-'  2  0  ~/private/cs400/output
+|4,39,2,0,1536792896,"~/private/cs400/output"
+-'  2  0  ~/private/cs400/output
+|4,39,2,0,1536792896,"~/private/cs400/output"
+-'  2  0  ~/private/cs400/output
+|4,39,2,0,1536792896,"~/private/cs400/output"
+-'  2  0  ~/private/cs400/output
+|4,39,2,0,1536792896,"~/private/cs400/output"
+-'  2  0  ~/private/cs400/output
+|4,39,2,0,1536792896,"~/private/cs400/output"
+-'  1  0  ~/private/cs400/output
+|4,39,1,0,1536792845,"~/private/cs400/output"
+-'  1  0  ~/private/cs400/output
+|4,39,1,0,1536792845,"~/private/cs400/output"
+-'  1  0  ~/private/cs400/output
+|4,39,1,0,1536792845,"~/private/cs400/output"
+-'  1  0  ~/private/cs400/output
+|4,39,1,0,1536792845,"~/private/cs400/output"
+-'  1  0  ~/private/cs400/output
+|4,39,1,0,1536792845,"~/private/cs400/output"
+-'  1  0  ~/private/cs400/output
+|4,39,1,0,1536792845,"~/private/cs400/output"
+-'  1  0  ~/private/cs400/output
+|4,39,1,0,1536792845,"~/private/cs400/output"
+-'  1  0  ~/private/cs400/output
+|4,39,1,0,1536792845,"~/private/cs400/output"
 -'  1  0  ~/private/cs400/output
 |4,39,1,0,1536792845,"~/private/cs400/output"
 -'  1  0  ~/private/cs400/output
@@ -127,6 +177,38 @@
 |4,39,5,0,1536792525,"~/private/cs400/hello.java"
 -'  5  0  ~/private/cs400/hello.java
 |4,39,5,0,1536792525,"~/private/cs400/hello.java"
+-'  5  0  ~/private/cs400/hello.java
+|4,39,5,0,1536792525,"~/private/cs400/hello.java"
+-'  5  0  ~/private/cs400/hello.java
+|4,39,5,0,1536792525,"~/private/cs400/hello.java"
+-'  5  0  ~/private/cs400/hello.java
+|4,39,5,0,1536792525,"~/private/cs400/hello.java"
+-'  5  0  ~/private/cs400/hello.java
+|4,39,5,0,1536792525,"~/private/cs400/hello.java"
+-'  5  0  ~/private/cs400/hello.java
+|4,39,5,0,1536792525,"~/private/cs400/hello.java"
+-'  5  0  ~/private/cs400/hello.java
+|4,39,5,0,1536792525,"~/private/cs400/hello.java"
+-'  5  0  ~/private/cs400/hello.java
+|4,39,5,0,1536792525,"~/private/cs400/hello.java"
+-'  5  0  ~/private/cs400/hello.java
+|4,39,5,0,1536792525,"~/private/cs400/hello.java"
+-'  5  0  ~/private/cs400/hello.java
+|4,39,5,0,1536792525,"~/private/cs400/hello.java"
+-'  5  0  ~/private/cs400/hello.java
+|4,39,5,0,1536792525,"~/private/cs400/hello.java"
+-'  5  0  ~/private/cs400/hello.java
+|4,39,5,0,1536792525,"~/private/cs400/hello.java"
+-'  5  0  ~/private/cs400/hello.java
+|4,39,5,0,1536792525,"~/private/cs400/hello.java"
+-'  5  0  ~/private/cs400/hello.java
+|4,39,5,0,1536792525,"~/private/cs400/hello.java"
+-'  5  0  ~/private/cs400/hello.java
+|4,39,5,0,1536792525,"~/private/cs400/hello.java"
+-'  5  0  ~/private/cs400/hello.java
+|4,39,5,0,1536792525,"~/private/cs400/hello.java"
+-'  5  0  ~/private/cs400/hello.java
+|4,39,5,0,1536792525,"~/private/cs400/hello.java"
 -'  1  0  ~/private/cs400/hello.java
 |4,39,1,0,1536792474,"~/private/cs400/hello.java"
 -'  1  0  ~/private/cs400/hello.java
@@ -159,98 +241,25 @@
 |4,39,1,0,1536792474,"~/private/cs400/hello.java"
 -'  1  0  ~/private/cs400/hello.java
 |4,39,1,0,1536792474,"~/private/cs400/hello.java"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792209,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792022,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792022,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792022,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792022,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792022,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792022,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792022,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792022,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792022,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792022,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792022,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792022,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792022,"~/private/hello"
+-'  1  0  ~/private/cs400/hello.java
+|4,39,1,0,1536792474,"~/private/cs400/hello.java"
+-'  1  0  ~/private/cs400/hello.java
+|4,39,1,0,1536792474,"~/private/cs400/hello.java"
+-'  1  0  ~/private/cs400/hello.java
+|4,39,1,0,1536792474,"~/private/cs400/hello.java"
+-'  1  0  ~/private/cs400/hello.java
+|4,39,1,0,1536792474,"~/private/cs400/hello.java"
+-'  1  0  ~/private/cs400/hello.java
+|4,39,1,0,1536792474,"~/private/cs400/hello.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/file3.txt
+	*	1538615228	0
+	"	1	5
+	^	1	6
+	.	2	0
+	+	2	0
 
 > ~/file2.txt
 	*	1538614753	0
